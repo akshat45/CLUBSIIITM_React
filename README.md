@@ -47,7 +47,7 @@ technologies such as NodeJS, ExpressJS and MongoDB.
 
 ## Link
 We have hosted the website on Oracle : <a href="https://clubsiiitmg.web.app/">Visit Us!</a>
-<p> Backend Repo Url : https://github.com/ninad-0408/CLUBSIIITM_Server 
+<p> Backend Repo Url :https://github.com/akshat45/CLUBSIIITM_Server
 <p id="team-members"></p>
 
 ## Team Members
